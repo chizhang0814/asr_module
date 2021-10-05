@@ -1,0 +1,2 @@
+lang_tgsmall/tmp/CLG_2_1.fst filter=lfs diff=lfs merge=lfs -text
+lang_tgsmall/tmp/LG.fst filter=lfs diff=lfs merge=lfs -text
